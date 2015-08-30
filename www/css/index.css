@@ -1,7 +1,16 @@
+body {
+    font-size: 2em;
+}
+
 img.banner {
     width: 100%;
 }
 
+
 .full-width {
     width: 100%;
+}
+
+div > div > nav > ul > li > a {
+    font-size: 80% !important;
 }
